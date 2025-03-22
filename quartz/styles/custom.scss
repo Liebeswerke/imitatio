@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Change page title color.
+
+.page-title > a {
+    color: var(--dark);
+}

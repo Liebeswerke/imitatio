@@ -31,7 +31,7 @@ const config: QuartzConfig = {
         lightMode: {
           light: "hsla(35, 36%, 96%, 1)", 
           lightgray: "hsla(37, 38%, 83%, 1)",
-          gray: "hsla(37, 38%, 83%, 1)",
+          gray: "hsla(34, 37%, 70%, 1)",
           darkgray: "hsla(31, 45%, 24%, 1)",
           dark: "hsla(33, 54%, 17%, 1)",
           secondary: "hsla(40, 79%, 47%, 1)",
@@ -42,7 +42,7 @@ const config: QuartzConfig = {
         darkMode: {
           light: "hsla(30, 19%, 15%, 1)",
           lightgray: "hsla(28, 22%, 19%, 1)",
-          gray: "hsla(28, 22%, 19%, 1)",
+          gray: "hsla(33, 27%, 33%, 1)",
           darkgray: "hsla(34, 39%, 74%, 1)",
           dark: "hsla(32, 48%, 85%, 1)",
           secondary: "hsla(42, 79%, 51%, 1)",
